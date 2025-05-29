@@ -61,8 +61,8 @@
   "bitcoreNode": "lib",
   "dependencies": {
     "async": "*",
-    "neobytescore-lib": "^0.15.2",
-    "neobytescore-message": "^1.0.9",
+    "neobytescore-lib": "neobytes-project/neobytescore-lib",
+    "neobytescore-message": "neobytes-project/neobytescore-message",
     "body-parser": "^1.13.3",
     "compression": "^1.6.1",
     "lodash": "=4.17.1",
