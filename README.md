@@ -1,4 +1,4 @@
-<h1 align="center">insight-api-neobytes</h1>
+<h1 align="center">Insight-api-neobytes</h1>
 
 <div align="center">
   <strong>A Neobytes blockchain REST and WebSocket API Service</strong>
